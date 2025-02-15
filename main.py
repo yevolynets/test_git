@@ -1,1 +1,1 @@
-print("Hi, first project!")
+print("---" * 50)
